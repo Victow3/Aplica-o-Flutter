@@ -1,6 +1,8 @@
-# ola_mundo
+# Estudo de Flutter
 
-A new Flutter project.
+Aplicação sendo feita seguindo o Curso de Flutter do canal Flutterando.
+
+https://www.youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB
 
 ## Getting Started
 
